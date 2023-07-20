@@ -4,9 +4,8 @@ Do you need more cats? Are you having trouble finding engaging videos with cats 
 
 Instructions on how to port and modify the extension can be found [here](https://github.com/MagicJinn/MrBeastify-Youtube/issues/16).
 
-[Firefox](http://addons.mozilla.org/en-GB/firefox/addon/youtube-mrbeastify/) | [Chrome](http://chrome.google.com/webstore/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb) | [Edge](http://microsoftedge.microsoft.com/addons/detail/youtube-mrbeastify/jabaaojkmmljhmnheeihppepcmiadhll0)
+[Firefox](http://addons.mozilla.org/en-GB/firefox/addon/youtube-mrbeastify/) | [Chrome](http://chrome.google.com/webstore/detail/youtube-mrbeastify/dbmaeobgdodeimjdjnkipbfhgeldnmeb)
 
-Compatible with all browsers (Firefox and Chromium based).
 
 Notes:
 * Original: https://github.com/MagicJinn/MrBeastify-Youtube

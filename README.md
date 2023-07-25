@@ -2,10 +2,7 @@
 
 Do you need more cats? Do you like cats? Of course you do. This extension adds cute cats to every thumbnail on youtube dot com.
 
-Coming to Firefox Store soon!
-
-Download yourself: https://addons.mozilla.org/firefox/downloads/file/4142444/399182ec0a2b4425a3d5-1.xpi 
-(this one works out of the box because it has a UUID key)
+Firefox Download: https://addons.mozilla.org/en-US/firefox/addon/youtube-catify/
 
 Notes:
 * Original: https://github.com/MagicJinn/MrBeastify-Youtube
